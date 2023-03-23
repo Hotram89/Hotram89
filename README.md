@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hotram89
 - 👀 I’m interested in Dev and Design
-- 🌱 I’m currently student on MOOC named OpenClassrooms from sept 2021 to nov 2022 
+- 🌱 I was OpenClassrooms student from sept 2021 to feb 2023 
 - 💞️ I'm trying to provide a good portfolio 
 - 📫 How to reach me ...marion.dournel@gmail.com
 
